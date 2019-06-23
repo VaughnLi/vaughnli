@@ -81,12 +81,11 @@ body{
     display: block;
     line-height: 2em;
 }
-.index>li{
+.index>div{
     margin: 0.5em 0;
-    list-style-type: circle;
 }
-.index>li.shit{
-  opacity: .1;
+.index>div>a:before{
+content: "· ";
 }
 .markdown-body{
     background-color: #F0F1EE;
