@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>动物凶猛NBOTS</title>
+        <link>http://vaughn.li/</link>
+        <description>认真是我们参与这个社会的方式。 --南京市民李先生</description>
+        <language>en-us</language>
+        <image>
+            <title>Vaughn&apos;s avatar</title>
+            <url>http://vaughn.li/favicon.png</url>
+            <link>http://vaughn.li/</link>
+        </image>
+        <item>
+            <title>给老爷子买一部手风琴</title>
+            <link>http://vaughn.li/AnAccordion.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+    </channel>
+</rss>
