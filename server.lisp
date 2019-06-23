@@ -156,7 +156,7 @@
   (with-output-to-string (s)
     (with-rss2 (s :encoding "UTF-8")
       (rss-channel-header "动物凶猛NBOTS" "http://vaughn.li/"
-                          :description "The chips will fall where they may."
+                          :description "认真是我们参与这个社会的方式。 --南京市民李先生"
                           :image "http://vaughn.li/favicon.png"
                           :image-title "Vaughn's avatar")
       (dolist (x (the-list))
