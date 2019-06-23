@@ -148,17 +148,17 @@
 
 (defun make-rss-item(name title)
   (rss-item title
-            :link (concat "http://vito.sdf.org/" name ".html")
-            :author "Vito Van"))
+            :link (concat "http://vaughn.li/" name ".html")
+            :author "动物凶猛NBOTS"))
 
 
 (defun make-rss()
   (with-output-to-string (s)
     (with-rss2 (s :encoding "UTF-8")
-      (rss-channel-header "Vito Van" "http://vito.sdf.org/"
+      (rss-channel-header "动物凶猛NBOTS" "http://vaughn.li/"
                           :description "The chips will fall where they may."
-                          :image "http://vito.sdf.org/favicon.png"
-                          :image-title "Vito's avatar")
+                          :image "http://vaughn.li/favicon.png"
+                          :image-title "Vaughn's avatar")
       (dolist (x (the-list))
         (make-rss-item (car x) (cdr x))))))
 
@@ -183,7 +183,7 @@
                                                            "</a></li>"))))
                                           (concat "<ul class='index'>" the-list-html "
                 </ul>")))
-                     "Vito Van"))
+                     "动物凶猛NBOTS"))
 
 (defun write-index()
   (format t "WRITING INDEX ~%")
