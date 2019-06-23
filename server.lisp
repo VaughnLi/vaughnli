@@ -204,7 +204,7 @@
   (copy-ori-file))
 
 (defparameter *ht-acceptor* (make-instance 'hunchentoot:easy-acceptor
-                                           :port 8080
+                                           :port 80 
                                            :document-root *dist-path*))
 
 (hunchentoot:start *ht-acceptor*)
