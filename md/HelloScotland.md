@@ -12,4 +12,7 @@
 
 ![Tennents](HelloScotland/Tennents.jpg)
 
-待续...
+周五晚上预定了Rabbie一日游，行程覆盖Oban，Glencoe，Highland Lochs & Castles。这几个地方留给我最深印象甚至改变自己认知的是Oban和Loch Lomond。 
+
+![Rabbie](HelloScotland/Rabbie.png)
+
