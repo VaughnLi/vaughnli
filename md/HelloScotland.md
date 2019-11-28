@@ -12,7 +12,7 @@
 
 ![Tennents](HelloScotland/Tennents.jpg)
 
-周五晚上预定了Rabbie一日游，行程覆盖Oban，Glencoe，Highland Lochs & Castles。这几个地方留给我最深印象甚至改变自己认知的是Oban和Loch Lomond。 
+因为周日就要赶往爱丁堡办公室，周末相对自由的时间只有周六。我参考了Renee之前的推荐，直接购买了Rabbie服务，行程覆盖Oban，Glencoe，Highland Lochs & Castles。Oban和Loch Lomond留给我的印象最深刻，在Loch Lomond的某个瞬间甚至改变了我对家用车的认识。
 
 ![Rabbie](HelloScotland/Rabbie.png)
 
