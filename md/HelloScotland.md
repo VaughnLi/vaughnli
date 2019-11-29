@@ -12,7 +12,15 @@
 
 ![Tennents](HelloScotland/Tennents.jpg)
 
-因为周日就要赶往爱丁堡办公室，周末相对自由的时间只有周六。我参考了Renee之前的推荐，直接购买了Rabbie服务，行程覆盖Oban，Glencoe，Highland Lochs & Castles。Oban和Loch Lomond留给我的印象最深刻，在Loch Lomond的某个瞬间甚至改变了我对家用车的认识。
+因为周日就要赶往爱丁堡办公室，周末相对自由的时间只剩周六。我参考了Renee之前的推荐，直接购买了Rabbie服务，行程覆盖Oban，Glencoe，Highland Lochs & Castles。
 
 ![Rabbie](HelloScotland/Rabbie.png)
+
+Oban是个海滨小镇，之所以印象深刻是因为在Rabbie自由活动时间内，四处乱逛歪打正着进了一个二战博物馆，后来查资料才知道是「OBAN WAR & PEACE MUSEUM」。里面的模型从外观上看大概有20年左右，
+
+![War Peace](HelloScotland/WarPeace.jpg)
+
+![War Peace 02](HelloScotland/WarPeace2.jpg)
+
+![War Peace 03](HelloScotland/WarPeace3.jpg)
 
