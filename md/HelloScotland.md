@@ -16,7 +16,9 @@
 
 ![Rabbie](HelloScotland/Rabbie.png)
 
-Oban是个海滨小镇，之所以印象深刻是因为在Rabbie自由活动时间内，四处乱逛歪打正着进了一个二战博物馆，后来查资料才知道是「OBAN WAR & PEACE MUSEUM」。里面的模型从外观上看大概有20年左右，
+Oban是个海滨小镇，之所以印象深刻是因为在Rabbie自由活动时间内，四处乱逛歪打正着进了一个二战博物馆，后来查资料才知道是「OBAN WAR & PEACE MUSEUM」。里面陈列的模型和摆件从外观上看大概有20年左右，为了验证自己的眼力，我还特意查了这座博物馆的资料。
+
+> The museum’s origins lie in an exhibition, 'Oban at War', mounted in 1995 by an enthusiastic team from the local community to mark the 50th anniversary of the ending of World War II. The exhibition was so popular with visitors and the local community that it became a permanent fixture and was renamed 'Oban War & Peace Museum' in 1996.
 
 ![War Peace](HelloScotland/WarPeace.jpg)
 
