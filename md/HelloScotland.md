@@ -28,7 +28,7 @@ Oban是个海滨小镇，之所以印象深刻是因为在Rabbie自由活动时�
 
 Loch Lomond在雨后云雾缭绕，周六天气虽然不好，但还是有不少本地人来这里玩，停车场内停了不少家用车。至少在当时的这个停车场内，经济实用型的旅行车普及率非常高，放眼望去几乎是清一色的旅行车，被国内旅行车爱好者称作瓦罐车Wagon。
 
-![Station Wagon](HelloScotland/wagon.jpg)
+![Station Wagon](HelloScotland/Wagon.jpg)
 
 后来我查找了很多品牌的旅行车，从外观上说沃尔沃的V40是自己看着最舒服的。
 
