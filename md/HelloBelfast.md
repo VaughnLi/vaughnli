@@ -5,7 +5,7 @@
 
 ![Soup](HelloBelfast/soup.jpg)
 
-其实在来UK之前，我就大概做了行程规划，受影响最深的是穷游网作者赵小满的「UK RAILWAY 英国铁路」。见到这个穷游锦囊后的想法就是将自己的最后一周的大多数时间，都花在列车上。
+其实在来UK之前，我就大概做了行程规划，受影响最深的是穷游网作者赵小满的「UK RAILWAY 英国铁路」。见到这个穷游锦囊后的想法就是将自己的最后一周的大多数时间，都花在列车上。按照原来的计划，
 
 ![Soup](HelloBelfast/uk_rail_01.jpg)
 ![Soup](HelloBelfast/uk_rail_02.jpg)

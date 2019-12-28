@@ -4,6 +4,7 @@
         <title>动物凶猛NBOTS</title>
         <link>http://vaughn.li/</link>
         <description>认真是我们参与这个社会的方式。 --南京市民李先生</description>
+        <generator>xml-emitter</generator>
         <language>en-us</language>
         <image>
             <title>Vaughn&apos;s avatar</title>
@@ -11,7 +12,37 @@
             <link>http://vaughn.li/</link>
         </image>
         <item>
-            <title>给老爷子买一部手风琴</title>
+            <title>Hello，Station Wagon</title>
+            <link>http://vaughn.li/HelloWagon.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>Hello，Glasgow</title>
+            <link>http://vaughn.li/HelloGlasgow.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>errtak</title>
+            <link>http://vaughn.li/HelloBristol.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>2019/11</title>
+            <link>http://vaughn.li/HelloBelfast.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>脏匡威</title>
+            <link>http://vaughn.li/DirtyConverse.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>近期饮食结构调整</title>
+            <link>http://vaughn.li/DietAdjustment.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>鹦鹉YW-871</title>
             <link>http://vaughn.li/AnAccordion.html</link>
             <author>动物凶猛NBOTS</author>
         </item>
