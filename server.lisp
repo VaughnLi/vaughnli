@@ -154,9 +154,10 @@
 
 (defun make-rss()
   (with-output-to-string (s)
-    (with-rss2 (s :encoding "UTF-8")
+    (with-rss2 (s :encoding "UTF-8" :attrs '(("version" "2.0")))
       (rss-channel-header "动物凶猛NBOTS" "http://vaughn.li/"
                           :description "认真是我们参与这个社会的方式。 --南京市民李先生"
+                          :generator "xml-emitter"
                           :image "http://vaughn.li/favicon.png"
                           :image-title "Vaughn's avatar")
       (dolist (x (the-list))
