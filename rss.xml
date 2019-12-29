@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>动物凶猛NBOTS</title>
+        <link>http://vaughn.li/</link>
+        <description>认真是我们参与这个社会的方式。 --南京市民李先生</description>
+        <generator>xml-emitter</generator>
+        <language>en-us</language>
+        <image>
+            <title>Vaughn&apos;s avatar</title>
+            <url>http://vaughn.li/favicon.png</url>
+            <link>http://vaughn.li/</link>
+        </image>
+        <item>
+            <title>Hello，Station Wagon</title>
+            <link>http://vaughn.li/HelloWagon.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>Hello，Glasgow</title>
+            <link>http://vaughn.li/HelloGlasgow.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>2019/11</title>
+            <link>http://vaughn.li/HelloBelfast.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>脏匡威</title>
+            <link>http://vaughn.li/DirtyConverse.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>近期饮食结构调整</title>
+            <link>http://vaughn.li/DietAdjustment.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+        <item>
+            <title>鹦鹉YW-871</title>
+            <link>http://vaughn.li/AnAccordion.html</link>
+            <author>动物凶猛NBOTS</author>
+        </item>
+    </channel>
+</rss>
